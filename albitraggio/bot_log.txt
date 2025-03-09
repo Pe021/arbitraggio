@@ -1,0 +1,599 @@
+[2025-03-07 13:23:29] Accesso alla pagina BOT. customInvestment=0
+[2025-03-07 13:25:30] Accesso alla pagina BOT. customInvestment=1000
+[2025-03-07 13:25:47] Accesso alla pagina BOT. customInvestment=500
+[2025-03-07 13:28:26] Accesso alla pagina BOT. customInvestment=500
+[2025-03-07 13:31:31] Accesso alla pagina BOT. customInvestment=0
+[2025-03-07 13:32:52] Accesso alla pagina BOT. CustomInvestment=0
+[2025-03-07 13:34:26] Accesso alla pagina BOT. CustomInvestment=0
+[2025-03-07 13:34:49] Accesso alla pagina BOT. CustomInvestment=0
+[2025-03-07 13:34:57] Accesso alla pagina BOT. CustomInvestment=0
+[2025-03-07 13:35:35] Accesso alla pagina BOT. CustomInvestment=0
+[2025-03-07 13:37:13] Accesso alla pagina BOT. CustomInvestment=0
+[2025-03-07 13:40:20] Accesso alla pagina BOT. CustomInvestment=0
+[2025-03-07 13:55:03] Accesso al BOT. customInvestment=0
+[2025-03-07 13:58:10] Accesso al BOT. customInvestment=0
+[2025-03-07 14:01:18] Accesso al BOT. customInvestment=0
+[2025-03-07 14:02:38] Accesso al BOT. customInvestment=0
+[2025-03-07 14:05:45] Accesso al BOT. customInvestment=0
+[2025-03-07 14:06:58] Accesso al BOT. customInvestment=0
+[2025-03-07 14:07:51] Accesso al BOT. customInvestment=0
+[2025-03-07 14:08:31] Accesso al BOT. customInvestment=0
+[2025-03-07 14:11:25] Accesso al BOT. customInvestment=0
+[2025-03-07 14:14:33] Accesso al BOT. customInvestment=0
+[2025-03-07 14:15:33] Accesso al BOT. customInvestment=0
+[2025-03-07 14:18:41] Accesso al BOT. customInvestment=0
+[2025-03-07 14:21:48] Accesso al BOT. customInvestment=0
+[2025-03-07 14:24:56] Accesso al BOT. customInvestment=0
+[2025-03-07 14:25:30] Accesso al BOT. customInvestment=0
+[2025-03-07 14:25:54] Accesso al BOT. customInvestment=0
+[2025-03-07 14:29:00] Accesso al BOT. customInvestment=0
+[2025-03-07 14:40:48] Accesso al BOT. customInvestment=0
+[2025-03-07 14:43:56] Accesso al BOT. customInvestment=0
+[2025-03-07 14:47:02] Accesso al BOT. customInvestment=0
+[2025-03-07 14:47:51] Accesso al BOT. customInvestment=0
+[2025-03-07 14:50:58] Accesso al BOT. customInvestment=0
+[2025-03-07 14:54:05] Accesso al BOT. customInvestment=0
+[2025-03-07 14:57:12] Accesso al BOT. customInvestment=0
+[2025-03-07 14:59:22] Accesso al BOT con customInvestment=0 da giliberto
+[2025-03-07 15:00:18] Accesso al BOT con customInvestment=10000 da giliberto
+[2025-03-07 15:03:26] Accesso al BOT con customInvestment=0 da giliberto
+[2025-03-07 15:06:33] Accesso al BOT con customInvestment=0 da giliberto
+[2025-03-07 15:09:41] Accesso al BOT con customInvestment=0 da giliberto
+[2025-03-07 15:11:02] Pagina bot loaded da utente giliberto con customInvestment=0
+[2025-03-07 15:12:34] Pagina bot loaded da utente giliberto con customInvestment=0
+[2025-03-07 15:15:35] LOGOUT automatico o manuale di 'giliberto'.
+[2025-03-07 15:15:48] Pagina bot loaded da utente giliberto con customInvestment=0
+[2025-03-07 15:15:55] Pagina bot loaded da utente giliberto con customInvestment=0
+[2025-03-07 15:18:56] LOGOUT automatico o manuale di 'giliberto'.
+[2025-03-07 15:19:08] Pagina bot loaded da utente giliberto con customInvestment=0
+[2025-03-07 15:19:14] Pagina bot loaded da utente giliberto con customInvestment=0
+[2025-03-07 15:22:15] LOGOUT manuale di 'giliberto'.
+[2025-03-07 15:22:25] Pagina bot caricata da giliberto, customInvestment=0
+[2025-03-07 15:25:32] Pagina bot caricata da giliberto, customInvestment=0
+[2025-03-07 15:25:32] LOGOUT manuale di 'giliberto'.
+[2025-03-07 15:28:43] Pagina bot caricata da giliberto, customInvestment=0
+[2025-03-07 15:28:49] Pagina bot caricata da giliberto, customInvestment=0
+[2025-03-07 15:29:20] Pagina bot caricata da giliberto, customInvestment=0
+[2025-03-07 15:31:23] Pagina BOT caricata da giliberto, customInvestment=0
+[2025-03-07 15:32:03] Pagina BOT caricata da giliberto, customInvestment=0
+[2025-03-07 15:32:29] Accesso al BOT. customInvestment=0
+[2025-03-07 15:34:12] Accesso al BOT con customInvestment=0 da giliberto
+[2025-03-07 15:34:18] Accesso al BOT con customInvestment=0 da giliberto
+[2025-03-07 15:35:37] Accesso al BOT con customInvestment=0 da giliberto
+[2025-03-07 15:37:26] Accesso al BOT con customInvestment=0 da giliberto
+[2025-03-07 15:38:43] Accesso al BOT con customInvestment=0 da giliberto
+[2025-03-07 15:40:32] Accesso al BOT con customInvestment=0 da giliberto
+[2025-03-07 15:41:50] Accesso al BOT con customInvestment=0 da giliberto
+[2025-03-07 15:43:40] Accesso al BOT con customInvestment=0 da giliberto
+[2025-03-07 15:44:45] Accesso al BOT con customInvestment=0 da giliberto
+[2025-03-07 15:44:58] Accesso al BOT con customInvestment=0 da giliberto
+[2025-03-07 15:47:52] Accesso al BOT con customInvestment=0 da giliberto
+[2025-03-07 15:48:06] Accesso al BOT con customInvestment=0 da giliberto
+[2025-03-07 15:48:39] Accesso al BOT con customInvestment=0 da giliberto
+[2025-03-07 15:51:14] Accesso al BOT con customInvestment=0 da giliberto
+[2025-03-07 15:51:47] Accesso al BOT con customInvestment=0 da giliberto
+[2025-03-07 15:52:07] Accesso al BOT soglia=0.1, customInvestment=0 da giliberto
+[2025-03-07 15:52:46] Accesso al BOT soglia=0.1025, customInvestment=0 da giliberto
+[2025-03-07 15:53:10] Accesso al BOT soglia=0.0025, customInvestment=0 da giliberto
+[2025-03-07 15:53:51] Accesso al BOT soglia=0.1, customInvestment=0 da giliberto
+[2025-03-07 15:54:21] Accesso al BOT soglia=0.1, customInvestment=0 da giliberto
+[2025-03-07 15:55:09] Accesso al BOT soglia=0.1, customInvestment=0 da giliberto
+[2025-03-07 15:57:28] Accesso al BOT soglia=0.1, customInvestment=0 da giliberto
+[2025-03-07 15:58:17] Accesso al BOT soglia=0.1, customInvestment=0 da giliberto
+[2025-03-07 16:00:39] Accesso al BOT soglia=0.1, customInvestment=0 da giliberto
+[2025-03-07 16:01:24] Accesso al BOT soglia=0.1, customInvestment=0 da giliberto
+[2025-03-07 16:03:46] Accesso al BOT soglia=0.1, customInvestment=0 da giliberto
+[2025-03-07 16:04:31] Accesso al BOT soglia=0.1, customInvestment=0 da giliberto
+[2025-03-07 16:05:07] Accesso al BOT: threshold=0.1, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK
+[2025-03-07 16:06:47] Accesso al BOT: threshold=0.1, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK
+[2025-03-07 16:08:16] Accesso al BOT: threshold=0.2, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR
+[2025-03-07 16:09:55] Accesso al BOT: threshold=0.1, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK
+[2025-03-07 16:11:45] Accesso al BOT: threshold=0.1, customInv=3000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR
+[2025-03-07 16:13:05] Accesso al BOT: threshold=0.1, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK
+[2025-03-07 16:15:16] Accesso al BOT: threshold=0.1, customInv=3000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR
+[2025-03-07 16:16:12] Accesso al BOT: threshold=0.1, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK
+[2025-03-07 16:18:49] Accesso al BOT: threshold=0.1, customInv=3000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR
+[2025-03-07 16:19:20] Accesso al BOT: threshold=0.1, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK
+[2025-03-07 16:19:58] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR
+[2025-03-07 16:22:27] Accesso al BOT: threshold=0.1, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK
+[2025-03-07 16:23:27] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR
+[2025-03-07 16:25:35] Accesso al BOT: threshold=0.1, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK
+[2025-03-07 16:26:58] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR
+[2025-03-07 16:28:46] Accesso al BOT: threshold=0.1, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK
+[2025-03-07 16:30:28] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR
+[2025-03-07 16:31:54] Accesso al BOT: threshold=0.1, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK
+[2025-03-07 16:33:57] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR
+[2025-03-07 16:35:02] Accesso al BOT: threshold=0.1, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK
+[2025-03-07 16:37:26] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR
+[2025-03-07 16:38:09] Accesso al BOT: threshold=0.1, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK
+[2025-03-07 16:40:56] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR
+[2025-03-07 16:41:17] Accesso al BOT: threshold=0.1, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK
+[2025-03-07 16:44:24] Accesso al BOT: threshold=0.1, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK
+[2025-03-07 16:44:24] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR
+[2025-03-07 16:47:30] Accesso al BOT: threshold=0.1, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK
+[2025-03-07 16:47:52] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR
+[2025-03-07 16:50:38] Accesso al BOT: threshold=0.1, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK
+[2025-03-07 16:51:22] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR
+[2025-03-07 16:53:46] Accesso al BOT: threshold=0.1, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK
+[2025-03-07 16:54:52] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR
+[2025-03-07 16:56:53] Accesso al BOT: threshold=0.1, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK
+[2025-03-07 16:58:22] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR
+[2025-03-07 17:00:04] Accesso al BOT: threshold=0.1, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK
+[2025-03-07 17:01:50] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR
+[2025-03-07 17:03:14] Accesso al BOT: threshold=0.1, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK
+[2025-03-07 17:05:18] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR
+[2025-03-07 17:06:22] Accesso al BOT: threshold=0.1, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK
+[2025-03-07 17:08:48] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR
+[2025-03-07 17:09:30] Accesso al BOT: threshold=0.1, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK
+[2025-03-07 17:12:18] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR
+[2025-03-07 17:12:37] Accesso al BOT: threshold=0.1, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK
+[2025-03-07 17:15:43] Accesso al BOT: threshold=0.1, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK
+[2025-03-07 17:15:46] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR
+[2025-03-07 17:18:52] Accesso al BOT: threshold=0.1, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK
+[2025-03-07 17:19:18] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR
+[2025-03-07 17:21:59] Accesso al BOT: threshold=0.1, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK
+[2025-03-07 17:22:47] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR
+[2025-03-07 17:25:09] Accesso al BOT: threshold=0.1, customInv=0, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK
+[2025-03-07 17:26:15] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR
+[2025-03-07 17:29:44] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR
+[2025-03-07 17:31:26] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR
+[2025-03-07 17:31:29] Esecuzione automatica acquisto: broker=Coinbase, coin=XRP, amount=10000
+[2025-03-07 17:31:29] Esecuzione automatica vendita: broker=Kraken, coin=XRP, amount=10000
+[2025-03-07 17:31:29] Esecuzione automatica trasferimento: da=Coinbase, a=Kraken, coin=XRP, amount=10000
+[2025-03-07 17:31:31] Esecuzione automatica acquisto: broker=Binance, coin=DOT, amount=10000
+[2025-03-07 17:31:31] Esecuzione automatica vendita: broker=Kraken, coin=DOT, amount=10000
+[2025-03-07 17:31:31] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=DOT, amount=10000
+[2025-03-07 17:31:33] Esecuzione automatica acquisto: broker=Binance, coin=BCH, amount=10000
+[2025-03-07 17:31:33] Esecuzione automatica vendita: broker=Kraken, coin=BCH, amount=10000
+[2025-03-07 17:31:33] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=BCH, amount=10000
+[2025-03-07 17:31:37] Esecuzione automatica acquisto: broker=Binance, coin=ZEC, amount=10000
+[2025-03-07 17:31:37] Esecuzione automatica vendita: broker=Coinbase, coin=ZEC, amount=10000
+[2025-03-07 17:31:37] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=ZEC, amount=10000
+[2025-03-07 17:31:40] Esecuzione automatica acquisto: broker=Binance, coin=KSM, amount=10000
+[2025-03-07 17:31:40] Esecuzione automatica vendita: broker=Coinbase, coin=KSM, amount=10000
+[2025-03-07 17:31:40] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=KSM, amount=10000
+[2025-03-07 17:31:40] Esecuzione automatica acquisto: broker=Binance, coin=CHZ, amount=10000
+[2025-03-07 17:31:40] Esecuzione automatica vendita: broker=Coinbase, coin=CHZ, amount=10000
+[2025-03-07 17:31:40] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=CHZ, amount=10000
+[2025-03-07 17:31:41] Esecuzione automatica acquisto: broker=Binance, coin=OP, amount=10000
+[2025-03-07 17:31:41] Esecuzione automatica vendita: broker=Coinbase, coin=OP, amount=10000
+[2025-03-07 17:31:41] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=OP, amount=10000
+[2025-03-07 17:31:42] Esecuzione automatica acquisto: broker=Binance, coin=SNX, amount=10000
+[2025-03-07 17:31:42] Esecuzione automatica vendita: broker=Coinbase, coin=SNX, amount=10000
+[2025-03-07 17:31:42] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=SNX, amount=10000
+[2025-03-07 17:31:43] Esecuzione automatica acquisto: broker=Binance, coin=IMX, amount=10000
+[2025-03-07 17:31:43] Esecuzione automatica vendita: broker=Coinbase, coin=IMX, amount=10000
+[2025-03-07 17:31:43] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=IMX, amount=10000
+[2025-03-07 17:31:44] Esecuzione automatica acquisto: broker=Binance, coin=GALA, amount=10000
+[2025-03-07 17:31:44] Esecuzione automatica vendita: broker=Coinbase, coin=GALA, amount=10000
+[2025-03-07 17:31:44] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=GALA, amount=10000
+[2025-03-07 17:31:45] Esecuzione automatica acquisto: broker=Binance, coin=ENS, amount=10000
+[2025-03-07 17:31:45] Esecuzione automatica vendita: broker=Coinbase, coin=ENS, amount=10000
+[2025-03-07 17:31:45] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=ENS, amount=10000
+[2025-03-07 17:31:46] Esecuzione automatica acquisto: broker=Binance, coin=ROSE, amount=10000
+[2025-03-07 17:31:46] Esecuzione automatica vendita: broker=Coinbase, coin=ROSE, amount=10000
+[2025-03-07 17:31:46] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=ROSE, amount=10000
+[2025-03-07 17:31:49] Esecuzione automatica acquisto: broker=Binance, coin=JASMY, amount=10000
+[2025-03-07 17:31:49] Esecuzione automatica vendita: broker=Coinbase, coin=JASMY, amount=10000
+[2025-03-07 17:31:49] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=JASMY, amount=10000
+[2025-03-07 17:31:50] Esecuzione automatica acquisto: broker=Binance, coin=XTZ, amount=10000
+[2025-03-07 17:31:50] Esecuzione automatica vendita: broker=Coinbase, coin=XTZ, amount=10000
+[2025-03-07 17:31:50] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=XTZ, amount=10000
+[2025-03-07 17:31:50] Esecuzione automatica acquisto: broker=Coinbase, coin=ZIL, amount=10000
+[2025-03-07 17:31:50] Esecuzione automatica vendita: broker=Binance, coin=ZIL, amount=10000
+[2025-03-07 17:31:50] Esecuzione automatica trasferimento: da=Coinbase, a=Kraken, coin=ZIL, amount=10000
+[2025-03-07 17:31:51] Esecuzione automatica acquisto: broker=Binance, coin=RAY, amount=10000
+[2025-03-07 17:31:51] Esecuzione automatica vendita: broker=Coinbase, coin=RAY, amount=10000
+[2025-03-07 17:31:51] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=RAY, amount=10000
+[2025-03-07 17:31:52] Esecuzione automatica acquisto: broker=Coinbase, coin=CELO, amount=10000
+[2025-03-07 17:31:52] Esecuzione automatica vendita: broker=Binance, coin=CELO, amount=10000
+[2025-03-07 17:31:52] Esecuzione automatica trasferimento: da=Coinbase, a=Kraken, coin=CELO, amount=10000
+[2025-03-07 17:31:53] Esecuzione automatica acquisto: broker=Binance, coin=EGLD, amount=10000
+[2025-03-07 17:31:53] Esecuzione automatica vendita: broker=Coinbase, coin=EGLD, amount=10000
+[2025-03-07 17:31:53] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=EGLD, amount=10000
+[2025-03-07 17:31:54] Esecuzione automatica acquisto: broker=Binance, coin=HOT, amount=10000
+[2025-03-07 17:31:54] Esecuzione automatica vendita: broker=Coinbase, coin=HOT, amount=10000
+[2025-03-07 17:31:54] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=HOT, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica acquisto: broker=Coinbase, coin=XRP, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica vendita: broker=Kraken, coin=XRP, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica trasferimento: da=Coinbase, a=Kraken, coin=XRP, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica acquisto: broker=Binance, coin=DOT, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica vendita: broker=Kraken, coin=DOT, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=DOT, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica acquisto: broker=Binance, coin=BCH, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica vendita: broker=Kraken, coin=BCH, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=BCH, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica acquisto: broker=Binance, coin=ZEC, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica vendita: broker=Coinbase, coin=ZEC, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=ZEC, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica acquisto: broker=Binance, coin=KSM, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica vendita: broker=Coinbase, coin=KSM, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=KSM, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica acquisto: broker=Binance, coin=CHZ, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica vendita: broker=Coinbase, coin=CHZ, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=CHZ, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica acquisto: broker=Binance, coin=OP, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica vendita: broker=Coinbase, coin=OP, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=OP, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica acquisto: broker=Binance, coin=SNX, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica vendita: broker=Coinbase, coin=SNX, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=SNX, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica acquisto: broker=Binance, coin=IMX, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica vendita: broker=Coinbase, coin=IMX, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=IMX, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica acquisto: broker=Binance, coin=GALA, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica vendita: broker=Coinbase, coin=GALA, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=GALA, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica acquisto: broker=Binance, coin=ENS, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica vendita: broker=Coinbase, coin=ENS, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=ENS, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica acquisto: broker=Binance, coin=ROSE, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica vendita: broker=Coinbase, coin=ROSE, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=ROSE, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica acquisto: broker=Binance, coin=JASMY, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica vendita: broker=Coinbase, coin=JASMY, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=JASMY, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica acquisto: broker=Binance, coin=XTZ, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica vendita: broker=Coinbase, coin=XTZ, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=XTZ, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica acquisto: broker=Coinbase, coin=ZIL, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica vendita: broker=Binance, coin=ZIL, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica trasferimento: da=Coinbase, a=Kraken, coin=ZIL, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica acquisto: broker=Binance, coin=RAY, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica vendita: broker=Coinbase, coin=RAY, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=RAY, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica acquisto: broker=Coinbase, coin=CELO, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica vendita: broker=Binance, coin=CELO, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica trasferimento: da=Coinbase, a=Kraken, coin=CELO, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica acquisto: broker=Binance, coin=EGLD, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica vendita: broker=Coinbase, coin=EGLD, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=EGLD, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica acquisto: broker=Binance, coin=HOT, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica vendita: broker=Coinbase, coin=HOT, amount=10000
+[2025-03-07 17:31:55] Esecuzione automatica trasferimento: da=Binance, a=Kraken, coin=HOT, amount=10000
+[2025-03-07 17:34:56] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-07 17:38:23] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-07 17:41:50] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-07 17:45:18] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-07 17:48:46] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-07 17:51:47] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-07 17:55:15] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-07 17:58:01] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-07 17:59:20] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-07 18:01:02] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-07 18:04:34] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-07 18:08:03] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-07 18:08:31] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-07 18:12:00] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-07 18:15:27] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-07 18:18:58] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-07 18:21:01] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-07 18:24:31] Accesso al BOT: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-07 18:28:20] Accesso BOT: threshold=0.1, capital=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-07 18:28:51] Accesso BOT: threshold=0.1, capital=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-07 18:32:20] Accesso BOT: threshold=0.1, capital=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-07 18:35:48] BOT Access: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-07 18:36:15] BOT Access: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-07 18:39:47] BOT Access: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-07 18:43:18] BOT Access: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-07 18:46:46] BOT Access: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-07 18:50:32] BOT Access: threshold=0.1, customInv=10000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-07 20:10:00] BOT Access: threshold=0.1, customInv=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 20:13:08] BOT Access: threshold=0.1, customInv=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=ON
+[2025-03-07 20:13:10] Chiamata BUY: Kraken - XRP - 1000 USD
+[2025-03-07 20:13:10] Chiamata SELL: Coinbase - XRP - 1000 USD
+[2025-03-07 20:13:11] Chiamata TRANSFER: da Kraken a kraken - XRP - 1000 USD
+[2025-03-07 20:13:15] Chiamata BUY: Binance - LINK - 1000 USD
+[2025-03-07 20:13:15] Chiamata SELL: Coinbase - LINK - 1000 USD
+[2025-03-07 20:13:15] Chiamata TRANSFER: da Binance a kraken - LINK - 1000 USD
+[2025-03-07 20:16:15] BOT Access: threshold=0.1, customInv=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=ON
+[2025-03-07 20:16:16] Chiamata BUY: Coinbase - BTC - 1000 USD
+[2025-03-07 20:16:16] Chiamata SELL: Binance - BTC - 1000 USD
+[2025-03-07 20:16:16] Chiamata TRANSFER: da Coinbase a kraken - BTC - 1000 USD
+[2025-03-07 20:16:17] Chiamata BUY: Binance - BNB - 1000 USD
+[2025-03-07 20:16:18] Chiamata SELL: Coinbase - BNB - 1000 USD
+[2025-03-07 20:16:18] Chiamata TRANSFER: da Binance a kraken - BNB - 1000 USD
+[2025-03-07 20:16:19] Chiamata BUY: Coinbase - SOL - 1000 USD
+[2025-03-07 20:16:19] Chiamata SELL: Binance - SOL - 1000 USD
+[2025-03-07 20:16:19] Chiamata TRANSFER: da Coinbase a kraken - SOL - 1000 USD
+[2025-03-07 20:16:19] Chiamata BUY: Coinbase - XRP - 1000 USD
+[2025-03-07 20:16:19] Chiamata SELL: Binance - XRP - 1000 USD
+[2025-03-07 20:16:20] Chiamata TRANSFER: da Coinbase a kraken - XRP - 1000 USD
+[2025-03-07 20:16:20] Chiamata BUY: Coinbase - AVAX - 1000 USD
+[2025-03-07 20:16:20] Chiamata SELL: Binance - AVAX - 1000 USD
+[2025-03-07 20:16:21] Chiamata TRANSFER: da Coinbase a kraken - AVAX - 1000 USD
+[2025-03-07 20:16:22] Chiamata BUY: Coinbase - LTC - 1000 USD
+[2025-03-07 20:16:22] Chiamata SELL: Binance - LTC - 1000 USD
+[2025-03-07 20:16:22] Chiamata TRANSFER: da Coinbase a kraken - LTC - 1000 USD
+[2025-03-07 20:16:23] Chiamata BUY: Coinbase - UNI - 1000 USD
+[2025-03-07 20:16:23] Chiamata SELL: Binance - UNI - 1000 USD
+[2025-03-07 20:16:23] Chiamata TRANSFER: da Coinbase a kraken - UNI - 1000 USD
+[2025-03-07 20:16:23] Chiamata BUY: Coinbase - SHIB - 1000 USD
+[2025-03-07 20:16:23] Chiamata SELL: Binance - SHIB - 1000 USD
+[2025-03-07 20:16:24] Chiamata TRANSFER: da Coinbase a kraken - SHIB - 1000 USD
+[2025-03-07 20:16:24] Chiamata BUY: Coinbase - BCH - 1000 USD
+[2025-03-07 20:16:24] Chiamata SELL: Binance - BCH - 1000 USD
+[2025-03-07 20:16:24] Chiamata TRANSFER: da Coinbase a kraken - BCH - 1000 USD
+[2025-03-07 20:16:25] Chiamata BUY: Kraken - ADA - 1000 USD
+[2025-03-07 20:16:25] Chiamata SELL: Binance - ADA - 1000 USD
+[2025-03-07 20:16:25] Chiamata TRANSFER: da Kraken a kraken - ADA - 1000 USD
+[2025-03-07 20:16:26] Chiamata BUY: Coinbase - LINK - 1000 USD
+[2025-03-07 20:16:26] Chiamata SELL: Binance - LINK - 1000 USD
+[2025-03-07 20:16:26] Chiamata TRANSFER: da Coinbase a kraken - LINK - 1000 USD
+[2025-03-07 20:19:27] BOT Access: threshold=0.1, customInv=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=ON
+[2025-03-07 20:19:27] Chiamata BUY: Coinbase - BTC - 1000 USD
+[2025-03-07 20:19:27] Chiamata SELL: Binance - BTC - 1000 USD
+[2025-03-07 20:19:28] Chiamata TRANSFER: da Coinbase a kraken - BTC - 1000 USD
+[2025-03-07 20:19:29] Chiamata BUY: Coinbase - SOL - 1000 USD
+[2025-03-07 20:19:29] Chiamata SELL: Binance - SOL - 1000 USD
+[2025-03-07 20:19:29] Chiamata TRANSFER: da Coinbase a kraken - SOL - 1000 USD
+[2025-03-07 20:19:30] Chiamata BUY: Coinbase - XRP - 1000 USD
+[2025-03-07 20:19:30] Chiamata SELL: Binance - XRP - 1000 USD
+[2025-03-07 20:19:30] Chiamata TRANSFER: da Coinbase a kraken - XRP - 1000 USD
+[2025-03-07 20:19:33] Chiamata BUY: Kraken - BCH - 1000 USD
+[2025-03-07 20:19:33] Chiamata SELL: Binance - BCH - 1000 USD
+[2025-03-07 20:19:33] Chiamata TRANSFER: da Kraken a kraken - BCH - 1000 USD
+[2025-03-07 20:19:34] Chiamata BUY: Coinbase - ADA - 1000 USD
+[2025-03-07 20:19:34] Chiamata SELL: Kraken - ADA - 1000 USD
+[2025-03-07 20:19:34] Chiamata TRANSFER: da Coinbase a kraken - ADA - 1000 USD
+[2025-03-07 20:19:42] BOT Access: threshold=0.1, customInv=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=ON
+[2025-03-07 20:19:45] Chiamata BUY: Kraken - LTC - 1000 USD
+[2025-03-07 20:19:45] Chiamata SELL: Binance - LTC - 1000 USD
+[2025-03-07 20:19:46] Chiamata TRANSFER: da Kraken a kraken - LTC - 1000 USD
+[2025-03-07 20:19:47] Chiamata BUY: Kraken - BCH - 1000 USD
+[2025-03-07 20:19:47] Chiamata SELL: Binance - BCH - 1000 USD
+[2025-03-07 20:19:47] Chiamata TRANSFER: da Kraken a kraken - BCH - 1000 USD
+[2025-03-07 20:19:47] Chiamata BUY: Binance - ADA - 1000 USD
+[2025-03-07 20:19:48] Chiamata SELL: Kraken - ADA - 1000 USD
+[2025-03-07 20:19:48] Chiamata TRANSFER: da Binance a kraken - ADA - 1000 USD
+[2025-03-07 20:19:54] BOT Access: threshold=0.1, customInv=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=ON
+[2025-03-07 20:19:55] Chiamata BUY: Binance - SOL - 1000 USD
+[2025-03-07 20:19:56] Chiamata SELL: Coinbase - SOL - 1000 USD
+[2025-03-07 20:19:56] Chiamata TRANSFER: da Binance a kraken - SOL - 1000 USD
+[2025-03-07 20:19:58] Chiamata BUY: Kraken - LTC - 1000 USD
+[2025-03-07 20:19:58] Chiamata SELL: Binance - LTC - 1000 USD
+[2025-03-07 20:19:58] Chiamata TRANSFER: da Kraken a kraken - LTC - 1000 USD
+[2025-03-07 20:20:00] Chiamata BUY: Kraken - BCH - 1000 USD
+[2025-03-07 20:20:00] Chiamata SELL: Coinbase - BCH - 1000 USD
+[2025-03-07 20:20:00] Chiamata TRANSFER: da Kraken a kraken - BCH - 1000 USD
+[2025-03-07 20:20:00] Chiamata BUY: Binance - ADA - 1000 USD
+[2025-03-07 20:20:01] Chiamata SELL: Coinbase - ADA - 1000 USD
+[2025-03-07 20:20:01] Chiamata TRANSFER: da Binance a kraken - ADA - 1000 USD
+[2025-03-07 20:21:43] BOT Access: threshold=0.1, customInv=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 20:24:50] BOT Access: threshold=0.1, customInv=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 20:27:56] BOT Access: threshold=0.1, customInv=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 20:28:26] BOT Access: threshold=0.1, customInv=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 20:31:33] BOT Access: threshold=0.1, customInv=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 20:34:40] BOT Access: threshold=0.1, customInv=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 20:34:50] BOT Access: threshold=0.1, customInv=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 20:35:27] BOT Access: threshold=0.1, customInv=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 20:35:30] BOT Access: threshold=0.1, customInv=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 20:35:30] BOT Access: threshold=0.1, customInv=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 20:39:57] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 20:43:04] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 20:46:10] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 20:49:17] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 20:50:32] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 20:50:41] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 20:53:54] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 20:57:01] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 21:00:07] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 21:03:14] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 21:06:22] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 21:09:30] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 21:12:36] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 21:14:03] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 21:14:16] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 21:16:14] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 21:16:24] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 21:19:31] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 21:20:57] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 21:24:03] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 21:25:39] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-07 21:28:46] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=ON
+[2025-03-07 21:28:48] BUY: Coinbase - BNB - 1000 USD
+[2025-03-07 21:28:51] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=ON
+[2025-03-07 21:28:52] BUY: Coinbase - BNB - 1000 USD
+[2025-03-07 21:29:02] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=ON
+[2025-03-07 21:29:05] BUY: Coinbase - BNB - 1000 USD
+[2025-03-07 21:29:05] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=ON
+[2025-03-07 21:29:06] BUY: Coinbase - ETH - 1000 USD
+[2025-03-07 21:29:25] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=ON
+[2025-03-07 21:29:26] BUY: Coinbase - BNB - 1000 USD
+[2025-03-07 21:29:33] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=ON
+[2025-03-07 21:29:35] BUY: Coinbase - SOL - 1000 USD
+[2025-03-07 21:29:59] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=ON
+[2025-03-07 21:30:05] BUY: Kraken - BCH - 1000 USD
+[2025-03-07 21:30:12] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=ON
+[2025-03-07 21:30:14] BUY: Coinbase - SOL - 1000 USD
+[2025-03-07 21:30:40] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=ON
+[2025-03-07 21:30:42] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=ON
+[2025-03-07 21:30:43] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=ON
+[2025-03-07 21:31:06] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=ON
+[2025-03-07 21:31:07] BUY: Kraken - BTC - 1000 USD
+[2025-03-07 21:33:57] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=ON
+[2025-03-07 21:34:08] BUY: Kraken - ADA - 1000 USD
+[2025-03-07 21:34:47] Access Bot: spread=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=ON
+[2025-03-07 21:34:53] BUY: Kraken - ADA - 1000 USD
+[2025-03-08 10:18:16] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 10:21:23] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 10:24:31] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 10:27:46] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 10:28:39] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 10:28:58] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 10:32:13] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 10:33:59] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 10:35:03] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 10:38:18] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 10:41:32] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 10:44:46] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 10:47:03] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 10:51:01] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 10:55:01] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 10:58:58] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 11:03:12] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 11:07:37] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 11:11:41] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 11:15:44] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 11:19:48] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 11:23:48] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 11:27:55] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 11:31:53] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 11:35:52] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 11:40:00] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 11:43:56] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 11:47:55] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 11:51:55] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 11:56:04] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 12:00:04] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 12:04:07] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 12:08:09] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 12:12:05] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 12:16:05] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 12:20:06] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 12:24:09] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 12:28:12] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 12:32:19] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 12:36:21] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 12:40:24] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 12:44:33] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 12:48:41] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 12:52:44] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 12:56:43] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 13:00:41] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 13:04:41] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 13:08:42] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 13:12:52] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 13:16:54] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 13:20:53] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 13:24:52] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 13:28:49] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 13:32:50] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 13:36:51] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 13:40:53] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 13:44:53] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 13:48:56] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 13:52:55] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 13:57:02] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 14:01:06] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 14:05:05] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 14:09:03] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 14:13:06] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 14:17:09] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 14:21:09] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 14:25:13] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 14:29:13] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 14:33:14] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 14:37:15] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 14:41:16] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 14:45:17] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 14:49:20] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 14:53:25] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 14:57:27] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 15:01:27] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 15:05:36] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 15:09:44] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 15:13:49] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 15:17:56] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 15:22:03] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 15:26:06] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 15:30:30] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 15:34:41] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 15:39:01] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 15:43:02] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 15:47:01] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 15:51:06] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 15:55:09] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 15:59:08] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 16:03:08] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 16:07:16] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 16:11:14] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 16:15:27] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 16:19:28] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 16:23:29] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 16:27:30] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 16:31:32] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 16:35:31] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 16:39:35] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 16:43:32] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 16:47:39] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 16:51:36] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 16:55:43] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 16:59:42] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 17:03:45] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 17:42:27] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-08 18:44:19] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 18:47:36] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 18:50:49] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 18:54:08] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 18:57:21] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 19:00:38] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 19:03:54] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 19:07:09] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 19:10:22] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 19:13:37] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 19:16:52] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 19:20:14] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 19:23:42] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 19:26:58] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 19:30:12] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 19:33:26] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 19:36:41] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 19:39:56] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 19:43:11] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 19:46:26] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 19:49:42] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 19:52:56] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 19:56:10] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 19:59:25] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 20:02:41] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 20:05:57] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 20:09:14] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 20:12:27] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 21:12:57] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 21:13:13] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 21:16:28] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 21:19:42] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 21:22:56] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 21:26:10] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 21:29:24] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 21:32:41] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 21:35:56] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 21:39:10] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-08 21:42:25] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-09 09:31:43] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-09 09:34:29] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-09 09:35:47] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-09 09:37:43] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-09 09:38:10] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-09 09:39:49] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-09 09:42:10] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-09 09:43:48] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-09 09:46:20] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-09 09:48:11] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-09 09:49:57] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-09 09:51:44] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-09 09:52:37] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-09 09:55:45] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-09 09:56:37] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-09 09:57:08] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-09 09:58:56] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-09 10:01:04] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-09 10:02:52] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-09 10:05:05] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-09 10:05:37] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-09 10:07:39] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH, botActive=OFF
+[2025-03-09 10:09:03] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-09 10:10:42] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH, botActive=OFF
+[2025-03-09 10:12:58] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-09 10:13:44] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH, botActive=OFF
+[2025-03-09 10:16:29] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-09 10:16:44] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-09 10:16:54] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH, botActive=OFF
+[2025-03-09 10:17:02] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-09 10:17:36] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK, botActive=OFF
+[2025-03-09 10:18:08] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH, botActive=OFF
+[2025-03-09 10:20:47] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-09 10:21:10] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH, botActive=OFF
+[2025-03-09 10:21:11] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
+[2025-03-09 10:21:46] Access Bot: threshold=0.1, invest=1000, coins=BTC,ETH,BNB,SOL,XRP,DOGE,AVAX,MATIC,DOT,LTC,UNI,SHIB,BCH,ADA,LINK,XLM,TRX,EOS,XMR,NEO,ETC,DASH,ZEC,VET,ICP,FIL,THETA,HBAR,MKR,KSM,CHZ,FTM,OP,CRV,SNX,GLMR,APE2,RUNE,IMX,1INCH,GALA,ENS,KAVA,ROSE,QTUM,CSPR,WAVES,BAL,JASMY,DASH2,XTZ,ZIL,MINA,RAY,SRM,CELO,EGLD,TUSD,HOT,RSR,FLR, botActive=OFF
